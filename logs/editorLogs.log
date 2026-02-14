@@ -20,3 +20,9 @@
 2024-12-10 21:25:27.599 [AWT-EventQueue-0] INFO  pl.EditorPO - Do you want to delete the selected file?
 2024-12-10 21:25:40.338 [AWT-EventQueue-0] INFO  pl.EditorPO - TF-IDF Score for 'surah falaq.txt' is: 0.009627044174443686
 2024-12-10 21:25:45.280 [AWT-EventQueue-0] INFO  pl.EditorPO - TF-IDF Score for 'quran-simple.txt' is: 0.014417461355646866
+2026-02-14 02:30:11.085 [AWT-EventQueue-0] INFO  pl.EditorPO - File created successfully!
+2026-02-14 19:32:24.128 [Thread-0] ERROR pl.EditorPO - (conn=8) Unknown column 'NaN' in 'VALUES'
+2026-02-14 19:32:27.670 [Thread-0] INFO  pl.EditorPO - small.txt failed to upload!
+2026-02-14 19:33:04.684 [Thread-13] INFO  pl.EditorPO - medium.txt uploaded successfully!
+2026-02-14 19:33:23.212 [Thread-14] ERROR pl.EditorPO - (conn=8) Unknown column 'NaN' in 'VALUES'
+2026-02-14 19:33:25.181 [Thread-14] INFO  pl.EditorPO - large.txt failed to upload!
